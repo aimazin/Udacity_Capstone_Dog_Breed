@@ -98,26 +98,28 @@ python -m ipykernel install --user --name dog-project --display-name "dog-projec
 
 ## Project Motivation
 
+
 Capstone was build to show case my abilities as far as real world data science goes.
 
 
 ## File Descriptions
 
-'dogImages.zip' -contains .jpg files of dog images only
 
-'Ifw.zip' -contains .jpg files of human facial image only
+**dogImages.zip** -contains .jpg files of dog images only
 
-'DogVGG16Data.npz' -contains VGG16 dog train, validation, test to make a bottleneck for cnn models
+**Ifw.zip** -contains .jpg files of human facial image only
 
-'DogResnet50Data.npz' -contains ResNet50 dog train, validation, test to make a bottleneck for cnn models
+**DogVGG16Data.npz** -contains VGG16 dog train, validation, test to make a bottleneck for cnn models
 
-'dog_app.ipynb' -contains code of cnn classifications
+**DogResnet50Data.npz** -contains ResNet50 dog train, validation, test to make a bottleneck for cnn models
 
-'report.html' -is an html of dog_app.ipynb
+**dog_app.ipynb** -contains code of cnn classifications
 
-'osloopera2x2.jpg' -.jpg image of Oslo's Operahouse
+**report.html** -is an html of dog_app.ipynb
 
-'mercar2x2.jpg' -.jpg image of sprorts car
+**osloopera2x2.jpg** -.jpg image of Oslo's Operahouse
+
+**mercar2x2.jpg** -.jpg image of sprorts car
 
 
 ## Results
