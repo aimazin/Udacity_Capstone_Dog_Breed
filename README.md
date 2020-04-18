@@ -107,11 +107,11 @@ Capstone was build to show case my abilities as far as real world data science g
 
 **dog_app.ipynb** -contains code of cnn classifications
 
-**report.html** -is an html of dog_app.ipynb
+**report.html** -is an HTML of dog_app.ipynb
 
 **osloopera2x2.jpg** -.jpg image of Oslo's Operahouse
 
-**mercar2x2.jpg** -.jpg image of sprorts car
+**mercar2x2.jpg** -.jpg image of sports car
 
 
 ## Results
