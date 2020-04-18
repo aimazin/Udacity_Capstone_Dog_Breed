@@ -18,6 +18,8 @@ DogVGG16Data.npz -download from:https://s3-us-west-1.amazonaws.com/udacity-aind/
 
 DogResnet50Data.npz -download from:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
 
+extract_bottleneck_features.py
+
 dog_app.ipynb
 
 report.html
@@ -105,9 +107,11 @@ Capstone was build to show case my abilities as far as real world data science g
 
 **DogResnet50Data.npz** -contains ResNet50 dog train, validation, test to make a bottleneck for cnn models
 
+**extract_bottleneck_features.py** -contain commands to enable bottleneck extraction
+
 **dog_app.ipynb** -contains code of cnn classifications
 
-**report.html** -is an HTML of dog_app.ipynb
+**report.html** -is an HTML version of dog_app.ipynb
 
 **osloopera2x2.jpg** -.jpg image of Oslo's Operahouse
 
