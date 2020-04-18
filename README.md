@@ -124,7 +124,7 @@ are show cased in my blog:
 
 ## Acknowledgements
 
-Udacity Team for all Ihave been taught 
+Udacity Team for all I have been taught 
 
 
 ## Licence
