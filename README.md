@@ -96,7 +96,7 @@ sudo python3 -m pip install -r requirements/requirements-gpu.txt
 python -m ipykernel install --user --name dog-project --display-name "dog-project"
 ```
 
-##Project Motivation
+## Project Motivation
 
 Capstone was build to show case my abilities as far as real world data science goes.
 
@@ -119,19 +119,19 @@ Capstone was build to show case my abilities as far as real world data science g
 'mercar2x2.jpg' -.jpg image of sprorts car
 
 
-##Results
+## Results
 
 are show cased in my blog:
 
 
-##Conclusion
+## Conclusion
 
 
-##Acknowledgements
+## Acknowledgements
 
 Udacity Team for all Ihave been taught 
 
 
-##Licence
+## Licence
 I authorize any none malicious use of this code.
 
