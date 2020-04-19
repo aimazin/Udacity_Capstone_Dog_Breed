@@ -93,7 +93,7 @@ python -m ipykernel install --user --name dog-project --display-name "dog-projec
 ## Project Motivation
 
 
-Capstone was build to show case my abilities as far as real world data science goes.
+Capstone was build to show case my abilities as far as real world data science goes. My goal is produce an Image classification algorithm. 
 
 
 ## File Descriptions
@@ -120,10 +120,8 @@ Capstone was build to show case my abilities as far as real world data science g
 
 ## Results
 
-are show cased in my blog:
+are show cased in my blog: https://medium.com/@aimazin/dog-breed-ai-a-udacity-data-scientist-nanodegree-capstone-ecdcf18e4954
 
-
-## Conclusion
 
 
 ## Acknowledgements
